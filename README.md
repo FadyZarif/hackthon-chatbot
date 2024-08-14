@@ -1,11 +1,10 @@
-# hackthon-chatbot(Smart Customer Service Platform)
+# hackthon-chatbot (Smart Customer Service Platform)
 This application won first place in the Smart Government Hackathon competition (smart service - smart community).
 This App will focus on developing a conversational AI platform with the goal of providing a smart system that can service multiple government facilities to automate their services in hopes of saving valuable time, money, and manpower, and provide citizens with around the clock assistance.
 Developed by Flutter, Firebase and AI Natural Language Wit 
 <p align="center">
   <img width="235" height="525" src="assets/project_images/First_Place.gif">
 </p>
-## Getting Started
 
 ## Features:
 1. clean and intuitive UI/UX 
